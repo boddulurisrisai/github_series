@@ -2,7 +2,7 @@ Introduction
 =============
 BODDULURI SRISAI
 ----------------
-Hi,I am ** BodduluriSriSai ** and I am a student at KL University persuing my B.Tech degree
+Hi,I am ** Bodduluri SriSai ** and I am a student at KL University persuing my B.Tech degree
 in the field of computer science specializtion.
 
 I am not only good at marks but also involved in many social activities as well.I
@@ -14,4 +14,9 @@ many projects in different fields such as:
 
 # Strengths
 My biggest strength is my self confidence and hard working nature.I bend and bow 
-to the organization as my description.My hobbies are playing cricket and volleyball.
+to the organization as my description.
+My hobbies are playing:
+* playing cricket
+* playing volleyball
+* watching movies
+* making others irritate
