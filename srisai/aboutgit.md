@@ -1,6 +1,6 @@
 # Everything About Git and Github
 
-# Git
+# Git:
 
 Git is distributed version control system.It contains local repository which can be accessed anywhere even without network.
 There are 4 fundamentals of Git workflow:
@@ -33,7 +33,7 @@ If you consider a file in your workspace it can be in 3 possible states:
 16. git status  : often give valuable hints on what to do next.
 
 
-# Github
+# Github:
 
 Github is a web-based platform used for version control. Git simplifies the process of working with other people and makes it easy to collaborate on projects.
 Team members can work on files and easily merge their changes in with the master branch of the project. Git & GitHub skill has slowly made its way from preferred

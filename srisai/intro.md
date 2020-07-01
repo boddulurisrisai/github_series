@@ -1,6 +1,6 @@
 # My Introduction
 
-Hello everyone,I am __BODDULURI SRISAI__ and I am AndhraPradesh.I am a student at _Koneru Lakshmaiah Educational Foundation_ where I am pursuing my B.Tech degree in the branch of computer science and engineering with a CGPA of __8.21__.I did my higher secondary schooling in the stream of state board with __97%__ from _SriChaitanya Junior College_.
+Hello everyone,I am __SRISAI__ and I am AndhraPradesh.I am a student at _Koneru Lakshmaiah Educational Foundation_ where I am pursuing my B.Tech degree in the branch of computer science and engineering with a CGPA of __8.21__.I did my higher secondary schooling in the stream of state board with __97%__ from _SriChaitanya Junior College_.
 
 Through out my college,I am not only having good grades but also involved a lot in extra-circuilar activities.I attended different workshops on _Web Development,Google AI,Explore ML and some open source software technologies_ as well.
 
