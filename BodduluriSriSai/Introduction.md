@@ -2,8 +2,7 @@ Introduction
 =============
 BODDULURI SRISAI
 ----------------
-Hi,I am **SriSai** and I am a student at KL University persuing my B.Tech degree
-in the field of computer science specializtion.
+Hello everyone,I am __SriSai__ from AndhraPradesh pursuing B.Tech degree in computer science specialization.
 
 I am not only good at marks but also involved in many social activities as well.I
 participated in many events as a host and attended different workshops as well.I did
@@ -19,4 +18,3 @@ My hobbies are playing:
 * playing cricket
 * playing volleyball
 * watching movies
-* making others irritate
