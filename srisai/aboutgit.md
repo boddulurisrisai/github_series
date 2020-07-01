@@ -15,6 +15,7 @@ If you consider a file in your workspace it can be in 3 possible states:
 3. It can be staged means that it can be considered in next commit.
 
 # git commands :
+
 1. git init     : initializes a repository.
 2. git checkout : checks out a branch from repository into the working directory.
 3. git add      : adds a change in a file to a change set.
