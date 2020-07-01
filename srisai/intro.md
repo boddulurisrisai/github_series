@@ -11,6 +11,6 @@ I worked on projects related to my academics such as
 I had done an internship provided by swecha camp to test my understanding about front and back end frameworks of web development.Along with my B.Tech degree,I earned certifications in
 different fields such as _Automation Anywhere Advance RPA Professional, Oracle Ilearning and Advanced Machine Learning_.
 
-My greatest strengths are my self confidence and hard working.I never depend on others.I am a team player and socially adapting person.I blend and blow to the organisation commiting myself to the job to the best of my description.
+My greatest strengths are my self confidence and hardworking.I never depend on others.I am a team player and socially adapting person.I blend and blow to the organisation commiting myself to the job to the best of my description.
 
 Thank you.
