@@ -50,11 +50,13 @@ to make changes to your main project or not. Then branches helps us to move back
 We can create a new branch and test the new feature without affecting the main branch. Once we are done with it, you can merge the changes from new branch to the main branch.
 
 # Forking:
+
 The term fork means producing a personal copy of someone else project.Git Fork means you just create a copy of the main repository of a project source code to your own GitHub profile.
 Steps for forking:
 1. click the fork button present on left right corner.
 
 # Cloning:
+
 The term clone means getting a local copy of the code present in the repository. After cloning  you can then do whatever changes you like in the code and then you
 can pull the changes back to the repository.Suppose we want to use some code which is present in a public repository, you can directly copy the contents by cloning or downloading.
 steps for cloning:
@@ -69,6 +71,7 @@ steps for cloning:
 
 
 # Pull Request:
+
 Pull command is the most important command in GitHub. It tell the changes done in the file and request other contributors to view it as well as merge it with the master branch.
 Once the commit is done, anyone can pull the file and can start a discussion over it. Once its all done, you can merge the file. Pull command compares the changes which are done 
 in the file and if there are any conflicts, you can manually resolve it.
